@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <text title="loc@1#1">
+    <note>
+    null
+    </note>
+  </text>
+  <!--分隔内容-->
+  <text title="loc@1#2">
+    <note>
+    </note>
+  </text>
+</root>
