@@ -2,8 +2,8 @@ code-homeNetworkRvs13:
  main: rt.0.29807.396.locx
  inside: WS-rnn-Rs.n7071Rvs13
  src: 
-  link: "https://github.com/lbjlksc/WS.hi-readerLib-/rnn/rt.0.29820.383.locx.lib/"
-  localhost: /rnn/readme/rt.0.29807.396.locx.lib/
+  link: "https://github.com/lbjlksc/WS.hi-readerLib-/rnn/rt.0.29820.383.locx.libz/"
+  localhost: /rnn/readme/rt.0.29807.396.locx.libz/
 code-tempR2fd: 
  main: null
  inside: WS-rnn-tempR2fd
