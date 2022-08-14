@@ -8,9 +8,3 @@ code-tempR2fd:
  main: null
  inside: WS-rnn-tempR2fd
  src: null
-code-temp331st21: 
- main: rt.0.29727.482
- inside: WS-rnn-331st21
- src: 
-  link: ""
-  localhost: 
