@@ -1,18 +1,26 @@
-code-tempR2fd: 
- main: null
+[0]
+main: null
+ code: tempR2fd
  inside: WS-rnn-tempR2fd
  src: null
-
-code-homeNetworkRvs13: 
- main: rt.0.29807.396sp0
+[1]
+main: rt.0.29807.396sp0
+ code: homeNetworkRvs13
  inside: WS-rnn-Rs.n7071Rvs13
  src: 
   link: "https://github.com/lbjlksc/WS.hi-readerLib/tree/main/rnn/Rs.n7071Rvs13-Lib/"
   localhost: {0,"/rnn/readme/Rs.n7071Rvs13-Lib/"}
-
-code-temp331st21: 
- main: rt.0.29727.482sp2
- inside: WS-rnn-temp331st21
+[2]
+main: rt.1.29727.482sp2
+ code: temp331st21
+ nside: WS-rnn-temp331st21
+  src: 
+   link: " "
+   localhost: {1," "}
+[3]
+main: rt.2.30217.0
+ code: tempnow0
+ inside: WS-rnn-tempnow0
   src: 
    link: " "
    localhost: {1," "}
