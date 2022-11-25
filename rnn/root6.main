@@ -9,11 +9,11 @@ main: rt.0.29807.396sp0
  inside: WS-rnn-Rs.n7071Rvs13
  src: 
   link: "https://github.com/lbjlksc/WS.hi-readerLib/tree/main/rnn/Rs.n7071Rvs13-Lib/"
-  localhost: {0,"/rnn/readme/Rs.n7071Rvs13-Lib/"}
+  localhost: {0,"/rnn/readme/Rs.n7071Rvs13-Lib/"} {1," "}
 [2]
 main: rt.1.29727.482sp2
  code: temp331st21
- nside: WS-rnn-temp331st21
+ inside: WS-rnn-temp331st21
   src: 
    link: " "
    localhost: {1," "}
@@ -25,9 +25,9 @@ main: rt.2.30217.0
    link: " "
    localhost: {1," "}
 [5]
-main: rt.4.30516.0
- code: tempbgmlv3rd
- inside: WS-rnn-tempbgmlv3rd
+main: rt.4.30516.2_vb
+ code: tempbgmlv3rd-vb[section]
+ inside: WS-rnn-tempbgmlv3rd-vb[section]
   src: null
    link: " "
    localhost: {1," "}
